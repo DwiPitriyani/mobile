@@ -1,45 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b17a41b-4dd0-424b-b0ea-7558118fb0f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile.iml" afterDir="false" />
+    <list default="true" id="8b17a41b-4dd0-424b-b0ea-7558118fb0f6" name="Changes" comment="push stater project.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BilanganBulat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BilanganDecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dynamic2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DynamicVar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KarakterKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Literal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LiteralKonstan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramCaesarChiper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramSandiMorse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTemplates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Stringoperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/elemen String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsianggotastring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/literalnumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nilaiASCII.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapankonversi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawstring2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscoreliteral.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DwiPitriyani"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DwiPitriyani/mobile.git",
+    "accountId": "e2d1fc2d-8f15-4f53-9a90-e84d0912e918"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2lgK8MTwrEpDY0qyqmf55vziApc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.BilanganBulatKt.executor": "Run",
+    "Kotlin.BilanganDecimalKt.executor": "Run",
+    "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.Dynamic2Kt.executor": "Run",
+    "Kotlin.DynamicVarKt.executor": "Run",
+    "Kotlin.Elemen_StringKt.executor": "Run",
+    "Kotlin.FungsianggotastringKt.executor": "Run",
+    "Kotlin.KarakterKotlinKt.executor": "Run",
+    "Kotlin.LiteralKonstanKt.executor": "Run",
+    "Kotlin.LiteralKt.executor": "Run",
+    "Kotlin.LiteralnumberKt.executor": "Run",
+    "Kotlin.MainAppKt.executor": "Run",
+    "Kotlin.NilaiASCIIKt.executor": "Run",
+    "Kotlin.Penerapan_StringKt.executor": "Run",
+    "Kotlin.PenerapankonversiKt.executor": "Run",
+    "Kotlin.ProgramCaesarChiperKt.executor": "Run",
+    "Kotlin.ProgramSandiMorseKt.executor": "Run",
+    "Kotlin.RawStringKt.executor": "Run",
+    "Kotlin.Rawstring2Kt.executor": "Run",
+    "Kotlin.StringTemplatesKt.executor": "Run",
+    "Kotlin.StringoperatorKt.executor": "Run",
+    "Kotlin.UnderscoreliteralKt.executor": "Run",
+    "Kotlin.VariabelKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
+  <component name="RunManager" selected="Kotlin.KalkulatorSederhanaKt">
+    <configuration name="FungsireadLineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsireadLineKt" />
+      <module name="mobile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorSederhanaKt" />
+      <module name="mobile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerintahMasukanKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerintahMasukanKotlinKt" />
+      <module name="mobile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramCaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramCaesarChiperKt" />
+      <module name="mobile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramSandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramSandiMorseKt" />
       <module name="mobile" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainAppKt" />
+        <item itemvalue="Kotlin.KalkulatorSederhanaKt" />
+        <item itemvalue="Kotlin.FungsireadLineKt" />
+        <item itemvalue="Kotlin.PerintahMasukanKotlinKt" />
+        <item itemvalue="Kotlin.ProgramSandiMorseKt" />
+        <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
       </list>
     </recent_temporary>
   </component>
@@ -60,6 +154,27 @@
       <option name="presentableId" value="Default" />
       <updated>1725596121934</updated>
     </task>
+    <task id="LOCAL-00001" summary="push stater project.">
+      <option name="closed" value="true" />
+      <created>1725596312750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725596312750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push stater project.">
+      <option name="closed" value="true" />
+      <created>1725596526569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725596526569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push stater project." />
+    <option name="LAST_COMMIT_MESSAGE" value="push stater project." />
   </component>
 </project>
